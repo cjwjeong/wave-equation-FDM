@@ -33,7 +33,7 @@ seismogram을 구성합니다.
  - z=1 (표면 근처)에서의 seismogram 출력
  - 회색조 반전('gray_r') colormap과 99% 절댓값 기준 클리핑
 
-작성자: 정성원
+작성자: cjwjeong
 작성일: 2025-07-01
 """
 
